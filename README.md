@@ -3,14 +3,14 @@ InfoSci1073
 
 This is a Repo!  
 
-Jay Palat / vpalat@pitt.edu
+Perry Abramowitz / pca6@pitt.edu
 ==================
-Three Facts About Me
+HTML has 3 types of lists:
 ---
 
-*   I enjoy reading.
-*   I am a Pitt Graduate.
-*   I have run a half-marathon.
+*   Unordered Lists.
+*   Ordered Lists.
+*   Description Lists.
 
 ---
 Make some changes locally.  I want to add  a sentence.
